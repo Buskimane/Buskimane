@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Buskimane&label=Profile%20views&color=0e75b6&style=flat" alt="Buskimane" /> </p>
 
-<h3 align="center">DEV OPS PRO </h3>
+<h3 align="center">DEVOPS PRO </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Buskimane" alt="Buskimane" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/BuskiEmman1" target="blank"><img src="https://img.shields.io/twitter/follow/BuskiEmman1?logo=twitter&style=for-the-badge" alt="BuskiEmman1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Okunolamide](https://github.com/Buskimane)
+- 👨‍💻 All of my projects are available at [https://github.com/Buskimane](https://github.com/Buskimane)
 
 - 📫 How to reach me **adebusolaemmanuel@gmail.com**
 
